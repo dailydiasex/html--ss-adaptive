@@ -26,7 +26,6 @@ html, body {
 
 .navbar {
   justify-self: center;
-  width: max-content;
   background-color: rgba(22, 67, 227, 0.6);
   position: fixed;
   z-index: 2;
@@ -251,4 +250,5 @@ html, body {
     .nav-title-block {
         justify-content: center;
     }
+
 } */
